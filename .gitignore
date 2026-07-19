@@ -1,0 +1,7 @@
+.DS_Store
+.vercel
+node_modules
+
+# original source images (clean copies live in assets/)
+Hero portrait/
+thumbnails /
